@@ -1,0 +1,124 @@
+{
+    "version": "0.6",
+    "reqId": "0",
+    "status": "ok",
+    "sig": "3344512",
+    "table": {
+        "cols": [
+            {
+                "id": "A",
+                "label": "",
+                "type": "string"
+            },
+            {
+                "id": "B",
+                "label": "NOmbres",
+                "type": "string"
+            },
+            {
+                "id": "C",
+                "label": "Notas",
+                "type": "number",
+                "pattern": "General"
+            },
+            {
+                "id": "D",
+                "label": "Nad más",
+                "type": "string"
+            }
+        ],
+        "rows": [
+            {
+                "c": [
+                    null,
+                    {
+                        "v": "paula"
+                    },
+                    {
+                        "v": 11.0,
+                        "f": "11"
+                    },
+                    {
+                        "v": "hola"
+                    }
+                ]
+            },
+            {
+                "c": [
+                    null,
+                    {
+                        "v": "Claudio"
+                    },
+                    {
+                        "v": 12.0,
+                        "f": "12"
+                    },
+                    {
+                        "v": "como "
+                    }
+                ]
+            },
+            {
+                "c": [
+                    null,
+                    {
+                        "v": "Romeo"
+                    },
+                    {
+                        "v": 13.0,
+                        "f": "13"
+                    },
+                    {
+                        "v": "te "
+                    }
+                ]
+            },
+            {
+                "c": [
+                    null,
+                    {
+                        "v": "Melissa"
+                    },
+                    {
+                        "v": 14.0,
+                        "f": "14"
+                    },
+                    {
+                        "v": "encuentras"
+                    }
+                ]
+            },
+            {
+                "c": [
+                    null,
+                    {
+                        "v": "Arturo"
+                    },
+                    {
+                        "v": 15.0,
+                        "f": "15"
+                    },
+                    {
+                        "v": null
+                    }
+                ]
+            },
+            {
+                "c": [
+                    null,
+                    {
+                        "v": "Jonás"
+                    },
+                    {
+                        "v": 16.0,
+                        "f": "16"
+                    },
+                    {
+                        "v": null
+                    }
+                ]
+            }
+        ],
+        "parsedNumHeaders": 2
+    }
+}

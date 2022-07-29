@@ -1,0 +1,11 @@
+original path:
+https://docs.google.com/spreadsheets/d/1_sN9SdRO5G0xrrisgpB-MkXI0-nOtcZsfFhrCnvikwM/edit?usp=sharing
+
+
+structure:
+https://docs.google.com/spreadsheets/d/{ID_DEL_DOCUMENTO}/gviz/tq?tqx=out:json&gid={ID_HOJA_DE_TRABAJO}
+
+
+
+model:
+https://docs.google.com/spreadsheets/d/1_sN9SdRO5G0xrrisgpB-MkXI0-nOtcZsfFhrCnvikwM/gviz/tq?tqx=out:json&gid=0
